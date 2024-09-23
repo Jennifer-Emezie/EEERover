@@ -30,6 +30,7 @@ Summer Project for Imperial EEE/EIE 2022/23
 
 ___
 ## Hardware
+![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](https://github.com/user-attachments/assets/8f10170b-6a3c-44c2-b663-a20f34f43ed9)
 ___
 ## Videos 
 ___
@@ -39,4 +40,5 @@ ___
 
 ## Final Demo
 Below you can see a video of the final demo. 
-[![Smart Grid Video](https://img.youtube.com/vi/qLZ7yFC_RUk/0.jpg)](https://youtu.be/qLZ7yFC_RUk)
+[![Photo 20-06-2023, 10 33 09 AM](https://github.com/user-attachments/assets/75d8f799-6367-4e57-8f9b-bbed695da3ce)
+](https://youtu.be/qLZ7yFC_RUk)
