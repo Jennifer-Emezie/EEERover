@@ -43,9 +43,7 @@ Please see our project write up for more detail regarding the engineering behind
 ___
 
 ## Final Demo
-Below you can see a video of the final demo. 
+Click the photo below to see a video of the final demo. 
 <br/>
-[![Final DEMO](https://img.youtube.com/vi/kKdj9ryf2Y0&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=3&ab_channel=Jen)](https://www.youtube.com/watch?v=kKdj9ryf2Y0&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=3&ab_channel=Jen)
-
-<br/>
-![Photo 20-06-2023, 10 33 09 AM](https://github.com/user-attachments/assets/75d8f799-6367-4e57-8f9b-bbed695da3ce)
+[![Photo 20-06-2023, 10 33 09 AM](https://github.com/user-attachments/assets/c051d2d2-5c7a-46a8-851f-de70be255089)
+](https://www.youtube.com/watch?v=kKdj9ryf2Y0&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=3&ab_channel=Jen)
