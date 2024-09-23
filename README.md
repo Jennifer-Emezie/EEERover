@@ -5,7 +5,7 @@ Summer Project for Imperial EEE/EIE 2022/23
 
 ---
 
-**_Abby Finka, Jennifer Emezie, Arundhathi Pasquereau_**
+**_Abby Finka, Orlan Forshaw, Jennifer Emezie, Zoe Zheng, Matthew Godsmark, Mehwish Bhatti_**
 
 ---
 
