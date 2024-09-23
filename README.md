@@ -33,12 +33,10 @@ ___
 ![D27DA7CF-CF80-4D0B-B8D7-00F5BBF826BA](https://github.com/user-attachments/assets/8f10170b-6a3c-44c2-b663-a20f34f43ed9)
 ___
 ## Videos 
-Below is a video of age testing
-[![age](https://img.youtube.com/vi/FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
-
-
-Below is a video of sensor and movement testing
-[![move](https://img.youtube.com/vi/HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
+Here is a video of age testing
+[age testing](https://www.youtube.com/watch?v=FwyPFLFQa2M&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=1&ab_channel=Jen)
+<br/>
+Here is a video of [sensor and movement testing](https://www.youtube.com/watch?v=HSvzeChAvag&list=PL8CWvMraml-7GFHXY4zaqxFh0PDaMUSf0&index=2&ab_channel=Jen)
 ___
 ## Documents 
 Please see our project write up for more detail regarding the engineering behind the teams design [`Soltrax.pdf`](./Soltrax.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
