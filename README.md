@@ -19,8 +19,8 @@ Summer Project for Imperial EEE/EIE 2022/23
 **Key:** o = Main Contributor; v = Co-Author
 
 
-| Task                | Abby | Orlan | Jennifer | Zoe | Adam | Arundhathi |
-|:--------------------:--------:|:-----:|:------:|:-----:|:----:|:----------:|
+| Task                | Abby | Orlan | Jennifer | Zoe | Matthew | Mehwish |
+|:--------------------|:--------:|:-----:|:------:|:-----:|:----:|:----------:|
 | Grid                |          |       |        |   o   |      |            |
 | Storage             |    o     |       |        |       |      |            |
 | PV                  |          |   o   |        |       |      |            |
