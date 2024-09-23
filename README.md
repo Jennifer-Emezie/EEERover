@@ -34,7 +34,7 @@ ___
 ## Videos 
 ___
 ## Documents 
-Please see our project write up for more detail regarding the engineering behind the teams design ['Soltrax.pdf'](./Soltrax.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+Please see our project write up for more detail regarding the engineering behind the teams design [`Soltrax.pdf`](./Soltrax.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 ___
 
 ## Final Demo
