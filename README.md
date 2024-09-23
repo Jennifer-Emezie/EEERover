@@ -1,2 +1,2 @@
-# EEERover
-Team Soltrax
+# Team Soltrax EEERover
+
