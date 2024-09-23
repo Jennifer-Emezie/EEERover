@@ -46,7 +46,7 @@ Lastly run the commands `cd client`, then run `npm install` and finally run `npm
 
 ___
 ## Documents 
-Please see our project write up for more detail regarding the engineering behind the teams design [`Smart_Grid.pdf`](./Smart_Grid.pdf) and our [Interim Presentation](https://www.canva.com/design/DAGGnyTdIyU/v3l1MlDU6QnrnRmbECQcOQ/view?utm_content=DAGGnyTdIyU&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+Please see our project write up for more detail regarding the engineering behind the teams design [`Sotrax.pdf`](./Smart_Grid.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 ___
 
 ## Results
