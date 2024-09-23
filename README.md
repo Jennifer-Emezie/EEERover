@@ -11,7 +11,7 @@ Summer Project for Imperial EEE/EIE 2022/23
 
 </center>
 
-![Logo](./client/src/assets/logo.png)
+![edpf_Pz1](https://github.com/user-attachments/assets/46a67a13-85f3-40a6-a8ae-1b73ef46c4a3)
 
 
 ## Contribution Table
