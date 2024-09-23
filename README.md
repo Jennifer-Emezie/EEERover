@@ -21,14 +21,12 @@ Summer Project for Imperial EEE/EIE 2022/23
 
 | Task                | Abby | Orlan | Jennifer | Zoe | Matthew | Mehwish |
 |:--------------------|:--------:|:-----:|:------:|:-----:|:----:|:----------:|
-| Grid                |          |       |        |   o   |      |            |
-| Storage             |    o     |       |        |       |      |            |
-| PV                  |          |   o   |        |       |      |            |
-| LED (Load)          |          |       |        |       |      |     o      |
-| Socket Server       |          |       |   o    |       |      |            |
-| Web Frontend        |          |       |        |       |   o  |            |
-| Web Backend         |          |       |        |       |   o  |            |
-| Algorithm           |          |       |   o    |       |   o  |            |
+| Rover Movement      |          |       |        |       |      |      o     |
+| Rover Design        |     o    |       |        |       |      |      v     |
+| Alien Name          |          |       |        |   o   |  v   |            |
+| Alien Age           |    o     |       |        |       |      |            |
+| Alien Magnetism     |          |       |    o   |       |      |            |
+| Team Webpage        |          |   o   |        |       |      |            |
 
 
 ___
@@ -36,6 +34,6 @@ ___
 Please see our project write up for more detail regarding the engineering behind the teams design [`Sotrax.pdf`](./Soltrax - Emezie, Finka, Forshaw, Zheng, Gidsmark, Bhatti.pdf) and our [Interim Presentation](https://www.canva.com/design/DAFkkoNc9i0/usRfsTg2y6Oj4BSP19Y2mA/view?utm_content=DAFkkoNc9i0&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 ___
 
-## Results
-Below you can see a video of the smart grid running. 
+## Final Demo
+Below you can see a video of the final demo. 
 [![Smart Grid Video](https://img.youtube.com/vi/qLZ7yFC_RUk/0.jpg)](https://youtu.be/qLZ7yFC_RUk)
